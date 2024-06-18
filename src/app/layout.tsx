@@ -5,7 +5,7 @@ import './globals.css'
 const dmSans = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Neobrutalism Saas template',
+  title: 'PeerPrep',
 }
 
 export default function RootLayout({

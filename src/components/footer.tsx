@@ -4,7 +4,7 @@ export default function Footer() {
       Connect with me{' '}
       <a
         target="_blank"
-        href="https://github.com/JiteshKhurana"
+        href="https://www.linkedin.com/in/jitesh-khurana/"
         className="font-heading underline"
       >
         Jitesh Khurana

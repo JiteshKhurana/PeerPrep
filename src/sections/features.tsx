@@ -81,7 +81,11 @@ export default function Features() {
                   <span className="mx-10 text-xl font-heading sm:text-2xl lg:text-4xl">
                     PeerPrep: Connect, Practice, Succeed
                   </span>
-                  <UserCheck className="w-[35px] sm:w-[45px]" />
+                  <img
+                    className="w-[35px] sm:w-[45px]"
+                    src={'/neobrutalism-icons/star3.svg'}
+                    alt="star"
+                  />
                 </div>
               )
             })}
