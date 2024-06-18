@@ -1,39 +1,36 @@
 <img src="public/preview.png" />
 
-# Saas
+# PeerPrep
 
-Saas is a neobrutalism-styled nextjs tailwind template for saas landing pages.
+PeerPrep is a platform designed to help students connect with their peers and conduct mock interviews. This reciprocal process allows students to alternate between being an interviewer and an interviewee, enhancing their skills and confidence in technical interviews.
 
-## Get started
+## Table of Contents
 
-[Create a new repo](https://github.com/neobrutalism-templates/saas/generate) from this template.
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Contact](#contact)
 
-### Installation
+## About the Project
 
-This template uses `pnpm` package manager so make sure you have it installed.
+PeerPrep aims to provide a collaborative environment where students can practice technical interviews, receive feedback, and improve their skills. The platform supports various types of technical challenges, including data structures, algorithms, frontend, and backend development.
 
-To install all dependencies run:
+## Features
 
-```bash
-pnpm i
-```
+- **Mock Interviews**: Practice technical interviews with peers to improve your skills and confidence.
+- **Role Switching**: Alternate between being an interviewer and an interviewee to gain a comprehensive understanding of the interview process.
+- **Technical Challenges**: Solve problems related to data structures, algorithms, frontend, and backend development.
+- **Peer Feedback**: Receive constructive feedback from peers to identify areas of improvement.
+- **Skill Development**: Enhance your technical and soft skills through regular practice and feedback.
+- **Community Support**: Join a community of like-minded individuals focused on mutual growth and success.
 
-To run the app locally:
+## Contact
 
-```bash
-pnpm run dev
-```
+If you have any questions, suggestions, or feedback, please feel free to reach out. We are always happy to hear from our users and community members.
 
-### Config
+### Contact
 
-- Inside `layout.tsx` update the metadata
-- Update the `favicon.ico`
-- Inside `page.tsx` update the content
-
-### Sections
-
-All content is split into sections so you can edit it more easily.
-
-### Styling
-
-To change the styling visit [styling docs](https://neobrutalism-components.vercel.app/docs/styling), and copy the desired styling to tailwind config like it's shown in the styling docs.
+- **Jitesh Khurana**
+  - **Role**: Creator of PeerPrep, Final Year Student at Thapar University
+  - **Email**: jiteshkhurana59@gmail.com
+  - **LinkedIn**: [Jitesh Khurana](https://www.linkedin.com/in/jitesh-khurana/)
+  - **Twitter**: [@jiteshKhurana12](https://twitter.com/jiteshKhurana12)
